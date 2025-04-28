@@ -7,7 +7,8 @@ Atualmente estou cursando Tecnologia da Gestão da Tecnologia da Informação na
 
 ### 👾 Linguagens e Tecnologias
 
-<img align="left"
+<img 
+  align="left"
   alt="Arduino"
   title="Arduino"
   width="45px"
