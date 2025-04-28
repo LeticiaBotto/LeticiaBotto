@@ -64,11 +64,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaBotto&theme=dracula"
 />
 
- <img 
-  align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  height=""
+<img 
+  align=""
+  alt="Um personagem redondo e rosa"
+  title="Kirby"
+  height="50px"
   style="padding-right: 10px;"
   src="https://emoji.discadia.com/emojis/9875d5bf-8c35-4c77-87f6-687e99ef0d00.GIF"
  />
