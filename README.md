@@ -66,7 +66,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
 />
 
 <img 
-  align=""
+  align="left"
   alt="Um personagem redondo e rosa"
   title="Kirby"
   height="50px"
