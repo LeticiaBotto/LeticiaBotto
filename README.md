@@ -71,17 +71,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
 
   <div align="center">
   <img
-  src="https://github-readme-stats.vercel.app/api?username=LeticiaBotto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt=""
+  src="https://github-readme-stats.vercel.app/api?username=LeticiaBotto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="Status do GitHub"
   />
   <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=LeticiaBotto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height=160 alt=""
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=LeticiaBotto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height=160 alt="Linguagens mais usadas"
   />
+</div>
+
+<div align="center">
 <img 
-  align="right"
   alt="Um personagem redondo e rosa se movendo com um guarda-chuva"
   title="Kirby"
-  height="50px"
-  style="padding-right: 10px;"
+  height="50px" 
   src="https://emoji.discadia.com/emojis/9875d5bf-8c35-4c77-87f6-687e99ef0d00.GIF"
  />
-</div>
+ </div>
