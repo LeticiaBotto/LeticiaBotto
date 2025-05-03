@@ -78,12 +78,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
   />
 </div>
 
+###
+
 <div align="center">
 <img 
   alt="Um personagem redondo e rosa se movendo com um guarda-chuva"
   title="Kirby"
   height="50px" 
-  style="padding-top: 15px"
   src="https://emoji.discadia.com/emojis/9875d5bf-8c35-4c77-87f6-687e99ef0d00.GIF"
  />
  </div>
