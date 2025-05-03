@@ -6,7 +6,6 @@ Atualmente estou cursando Tecnologia da Gestão da Tecnologia da Informação na
 ---
 
 ### 👾 Linguagens e Tecnologias
-
 <img 
   align="left"
   alt="Arduino"
@@ -52,6 +51,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
  />
 
+ 
+<img 
+  align="left"
+  alt="JavaScript"
+  title="JavaScript"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
+  />
+          
+
 <br>
 <br>
 
@@ -59,19 +69,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
  
 <br>
 
-<img
-  align="left"
-  alt="Github Status"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaBotto&theme=dracula"
-/>
-
+  <div align="center">
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=LeticiaBotto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt=""
+  />
+  <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=LeticiaBotto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height=160 alt=""
+  />
 <img 
-  align="left"
-  alt="Um personagem redondo e rosa"
+  align="right"
+  alt="Um personagem redondo e rosa se movendo com um guarda-chuva"
   title="Kirby"
   height="50px"
   style="padding-right: 10px;"
   src="https://emoji.discadia.com/emojis/9875d5bf-8c35-4c77-87f6-687e99ef0d00.GIF"
  />
+</div>
