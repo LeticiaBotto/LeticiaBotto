@@ -60,8 +60,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
   />
-          
 
+  
+  <img 
+  align="left"
+  alt="JavaScript"
+  title="JavaScript"
+  width="55px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+          
 <br>
 <br>
 
