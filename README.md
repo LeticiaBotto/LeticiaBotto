@@ -6,14 +6,6 @@ Atualmente estou cursando Tecnologia da Gestão da Tecnologia da Informação na
 ---
 
 ### 👾 Linguagens e Tecnologias
-<img 
-  align="left"
-  alt="Arduino"
-  title="Arduino"
-  width="45px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" 
-/>
 
 <img 
   align="left"
