@@ -1,7 +1,7 @@
 # 🌸 Leticia Botto
 
 Me chamo Leticia Botto, tenho 21 anos e sou Brasileira.
-Atualmente estou cursando Tecnologia da Gestão da Tecnologia da Informação na faculdade Uninove e, estudo programação no Instituto PROA.
+
 
 ---
 
